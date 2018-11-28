@@ -1,0 +1,4 @@
+husband(Person, 'Queen Elizabeth II')
+husband(Person, 'Kate Middleton')
+husband(Person, 'Autumn Kelly')
+sibling(Person, 'Isla Phillips')
